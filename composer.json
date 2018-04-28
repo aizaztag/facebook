@@ -1,0 +1,14 @@
+{
+    "name": "aizaztag/facebook",
+    "description": "This is laravel pacakeg  \u001b[D\u001b[D\u001b[kage",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aizaz.aziz",
+            "email": "aizaz.azzi@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
